@@ -3,13 +3,13 @@
     "value": "eastus"
   },
   "aadTenantId": {
-    "value": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+    "value": "a3ab47e2-917e-4d27-9f48-51ea3901c83b"
   },
   "subscriptionId": {
-    "value": "9bd3670f-c1b7-4e1e-870b-ff07a1a714f1"
+    "value": "ddb28ddc-0486-49e5-af33-6850b8169442"
   },
   "solutionName": {
-    "value": "iotdevice-simulation }"
+    "value": "iotdevice-simulation"
   },
   "adminUsername": {
     "value": "drcuser"
